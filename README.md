@@ -8,4 +8,6 @@ My name is William and I'm a first year Math student at Waterloo. My main intere
 
 Kingdom Crushers is open source now so feel free to make a hacked client
 
+Check out my procedural art [here]([https://github.com/studio-imperium](https://www.williamqm.com/gallery))
+
 I publish my coolest projects [here](https://github.com/studio-imperium)
