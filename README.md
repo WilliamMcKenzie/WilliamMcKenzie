@@ -5,3 +5,5 @@ My name is William and I'm in a first year Math student at Waterloo. My main int
 - (Scalable) multiplayer game systems
 - Procedural generation
 - Anything Go related
+
+Kingdom Crushers is open source now so feel free to check it out and try to make a hacked client
