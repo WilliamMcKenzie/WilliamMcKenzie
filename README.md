@@ -6,4 +6,4 @@ My name is William and I'm in a first year Math student at Waterloo. My main int
 - Procedural generation
 - Anything Go related
 
-Kingdom Crushers is open source now so feel free to check it out and try to make a hacked client
+Kingdom Crushers is open source now so feel free to make a hacked client
