@@ -6,7 +6,7 @@ My name is William and I'm a first year Math student at Waterloo. My main intere
 - Procedural generation
 - Anything Go related
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=WilliamMcKenzie)
 
 Kingdom Crushers is open source now so feel free to make a hacked client
 
