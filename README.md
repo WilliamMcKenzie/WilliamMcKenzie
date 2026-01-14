@@ -6,6 +6,8 @@ My name is William and I'm a first year Math student at Waterloo. My main intere
 - Procedural generation
 - Anything Go related
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 Kingdom Crushers is open source now so feel free to make a hacked client
 
 Check out my procedural art [here](https://www.williamqm.com/gallery)
