@@ -1,7 +1,7 @@
 ## Hello
 
 I'm a first year Math student at Waterloo. My main interests are
-- Efficient MMO architecture
+- MMO architecture/design
 - Procedural generation
 
 [Kingdom Crushers](https://play.google.com/store/apps/details?id=com.williamqm.mmorelam) has been my main project for the last year or so
