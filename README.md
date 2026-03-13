@@ -1,12 +1,10 @@
-## Hi there 👋
+## Hello
 
-My name is William and I'm a first year Math student at Waterloo. My main interests are
-
-- (Scalable) multiplayer game systems
+I'm a first year Math student at Waterloo. My main interests are
+- Efficient MMO architecture
 - Procedural generation
-- Anything Go related
 
-Kingdom Crushers is open source now so feel free to make a hacked client
+[Kingdom Crushers](https://play.google.com/store/apps/details?id=com.williamqm.mmorelam) has been my main project for the last year or so
 
 Check out my HTML canvas projects [here](https://www.williamqm.com/gallery)
 
