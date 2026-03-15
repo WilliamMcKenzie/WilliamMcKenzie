@@ -1,6 +1,6 @@
 ## Hello
 
-I'm a first year Math student at Waterloo. My main interests are
+I'm a first year Math student at Waterloo, incoming @ Viggle. My main interests are
 - MMO architecture/design
 - Procedural generation
 
