@@ -1,6 +1,6 @@
 ## Hello
 
-I'm a first year cs student at Waterloo, incoming @ Viggle. My main interests are
+I'm a first year cs student at Waterloo interning @ Viggle. My main interests are
 - MMO architecture/design
 - Procedural generation
 
