@@ -8,4 +8,4 @@ I'm a second year cs student at waterloo
 - Made multiplayer game over 1k accounts created
 - Interested in distributed systems, agents
 
-![](https://komarev.com/ghpvc/?username=WilliamMcKenzie)
+![](https://komarev.com/ghpvc/?username=WilliamMcKenzie) [![Website Badge](https://img.shields.io/badge/website-zacharyyu.com-blue)](https://www.williamqm.com/)
